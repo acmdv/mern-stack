@@ -144,6 +144,7 @@ class App extends Component{
                 <div className="container">
                     <div className="estado"></div>
                     <div className="estado2"></div>
+                    <div className="estado3"></div>
                     <div className="row">
                         <div className="col s5">
                             <div className="card">
